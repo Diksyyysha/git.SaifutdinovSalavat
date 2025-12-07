@@ -3,5 +3,6 @@ def main():
     print("ИВТ-ИВС-202Б")
     print("08.12.2025")
     print("Время ночи 3 часа, мы стоим у банкомата.")
+    print("Hello World!")
 if __name__ == main():
     main()
