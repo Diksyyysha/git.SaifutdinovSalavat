@@ -5,5 +5,6 @@ def main():
     print("Время ночи 3 часа, мы стоим у банкомата.")
     print("Hello World!")
     print("It's work!")
+    print("Hello from GitHub")
 if __name__ == main():
     main()
